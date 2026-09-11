@@ -1,16 +1,19 @@
-## Hi there 👋
+        SARTHAK ANAND
 
-<!--
-**sarthakanand12/sarthakanand12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+        ┌──────────────────────────────────────┐
+        │                                      │
+        │  LLMs          ML Systems            │
+        │  Inference     Generative AI         │
+        │  Efficiency    Deep Learning         │
+        │                                      │
+        └──────────────────────────────────────┘
 
-Here are some ideas to get you started:
+        currently →
+        speculative decoding
+        block diffusion
+        KV / context injection
+        efficient inference
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+        paper → implement → benchmark → understand
+
+        Python · PyTorch · Transformers · CUDA

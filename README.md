@@ -3,7 +3,6 @@ $ whoami
 sarthakanand12
 ```
 
-```
     SARTHAK ANAND
     ML ENGINEER
 
@@ -13,7 +12,6 @@ sarthakanand12
     │  PyTorch · Transformers · HuggingFace   │
     │                                         │
     └─────────────────────────────────────────┘
-```
 
 ```bash
 $ cat expertise

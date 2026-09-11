@@ -1,20 +1,18 @@
-```bash
 $ whoami
-```
 
-SARTHAK ANAND
-ML ENGINEER
 
-┌─────────────────────────────────────────┐
-│                                         │
-│  Python · Go · SQL · DSPy · LangGraph   │
-│  PyTorch · Transformers · HuggingFace   │
-│                                         │
-└─────────────────────────────────────────┘
+    SARTHAK ANAND
+    ML ENGINEER
+    
+    ┌─────────────────────────────────────────┐
+    │                                         │
+    │  Python · Go · SQL · DSPy · LangGraph   │
+    │  PyTorch · Transformers · HuggingFace   │
+    │                                         │
+    └─────────────────────────────────────────┘
 
-```bash
 $ cat expertise
-```
+
 
 ```
     ┌──────────────────┬───────────────────┬──────────────────┐

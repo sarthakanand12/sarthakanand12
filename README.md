@@ -1,17 +1,16 @@
 ```bash
 $ whoami
-sarthakanand12
 ```
 
-    SARTHAK ANAND
-    ML ENGINEER
+SARTHAK ANAND
+ML ENGINEER
 
-    ┌─────────────────────────────────────────┐
-    │                                         │
-    │  Python · Go · SQL · DSPy · LangGraph   │
-    │  PyTorch · Transformers · HuggingFace   │
-    │                                         │
-    └─────────────────────────────────────────┘
+┌─────────────────────────────────────────┐
+│                                         │
+│  Python · Go · SQL · DSPy · LangGraph   │
+│  PyTorch · Transformers · HuggingFace   │
+│                                         │
+└─────────────────────────────────────────┘
 
 ```bash
 $ cat expertise
